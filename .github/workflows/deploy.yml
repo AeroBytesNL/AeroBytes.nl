@@ -17,6 +17,8 @@ jobs:
 
           - name: Set up SSH
             uses: webfactory/ssh-agent@v0.5.3
+            with:
+              ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
           - name: Run deploy sh script
             run:
               ssh -o StrictHostKeyChecking=no root@10.1.0.3
