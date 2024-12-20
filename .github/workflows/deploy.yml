@@ -1,8 +1,13 @@
 name: Continuous Deployment
 
 on:
-    release:
-        type: [published]
+    pull_request:
+      branches:
+        - main
+
+    push:
+      branches:
+        - main
 
 jobs:
     deploy:
@@ -14,6 +19,6 @@ jobs:
             uses: webfactory/ssh-agent@v0.5.3
             with:
               ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-
-          - name: Deploy to server
-            run
+          - name: Run deploy sh script
+            run:
+              ssh -o StrictHostKeyChecking=no root@10.1.0.3
