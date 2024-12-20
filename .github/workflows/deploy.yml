@@ -20,5 +20,4 @@ jobs:
             with:
               ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
           - name: Run deploy sh script
-            run:
-              ssh -o StrictHostKeyChecking=no root@10.1.0.3
+            run: ssh -o StrictHostKeyChecking=no root@10.1.0.3 '/home/aerobytes/domains/aerobytes.nl/public_html/deploy.sh'
