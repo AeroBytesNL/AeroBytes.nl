@@ -77,8 +77,8 @@
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4 justify-content-center">
-        <div class="col-lg-4">
-          <img alt="" class="img-fluid" src="assets/img/ik-cut.png">
+        <div class="col-lg-4 justify-content-center" style="text-align: center;">
+          <img alt="" class="img-fluid" src="assets/img/ik-cut.png" style="width: 250px;">
         </div>
         <div class="col-lg-8 content">
           <h2>
