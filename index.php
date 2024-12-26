@@ -180,16 +180,16 @@
           <h3 class="resume-title">Services i run for others</h3>
 
           <div class="resume-item pb-0">
-            <h4>festivalkleintjehollands.nl (paid)</h4>
+            <h4>festivalkleintjehollands.nl</h4>
             <ul>
               <li>Web hosting</li>
               <li>Mailserver hosting</li>
-              <li><a href="https://festivalkleintjehollands.nl" target="_blank">TRMC.nl</a></li>
+              <li><a href="https://festivalkleintjehollands.nl" target="_blank">festivalkleintjehollands.nl</a></li>
             </ul>
           </div>
 
           <div class="resume-item pb-0">
-            <h4>TRMC.nl (paid)</h4>
+            <h4>TRMC.nl</h4>
             <ul>
               <li>Web hosting</li>
               <li>Mailserver hosting</li>
@@ -489,7 +489,7 @@
             <a class="stretched-link" href="">
               <h3>CAD</h3>
             </a>
-            <p>Creating design for my hobby in the RC plane's</p>
+            <p>Creating designs for my hobby in the RC world</p>
             <a class="stretched-link" href="#"></a>
           </div>
         </div>
