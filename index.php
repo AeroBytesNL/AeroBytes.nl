@@ -225,7 +225,7 @@
             <ul>
               <li><a href="">
                 <div class="social-links">
-                  <a class="text-white" href="https://github.com/AutiCodes/Kiyomi"
+                  <a class="text-white" href="https://github.com/AeroBytesNL/Kyomi-V2"
                      target="_blank">
                     <i class="bi bi-github">
                       Github
@@ -238,12 +238,12 @@
           </div>
 
           <div class="resume-item pb-0">
-            <h4>Sakura CMS</h4>
-            <p><em>An Laravel based CMS</em></p>
+            <h4>CheckStack</h4>
+            <p><em>An uptime monitor, because the existing one's didn't fit my need</em></p>
             <ul>
               <li><a href="">
                 <div class="social-links">
-                  <a class="text-white" href="https://github.com/AutiCodes/Sakura"
+                  <a class="text-white" href="https://github.com/AeroBytesNL/CheckStack"
                      target="_blank">
                     <i class="bi bi-github">
                       Github
@@ -251,13 +251,13 @@
                   </a>
                 </div>
               </a></li>
-              <li>Still work in progress</li>
+              <li>In active development</li>
             </ul>
           </div>
 
           <div class="resume-item pb-0">
             <h4>Contributor Invoiceplane</h4>
-            <p><em>An Invoice management system. Currently contributing to V2</em></p>
+            <p><em>An Invoice management system. Fixing bugs for V1. Contributor V2.</em></p>
             <ul>
               <li><a href="">
                 <div class="social-links">
@@ -268,7 +268,7 @@
                   </a>
                 </div>
               </a></li>
-              <li>Still work in progress</li>
+              <li>Still ongoing</li>
             </ul>
           </div>
         </div>
@@ -284,7 +284,7 @@
               <li><a href="">
                 <div class="social-links">
                   <a class="text-white"
-                     href="https://github.com/AutiCodes/Wordpress-posts-to-Discord" target="_blank">
+                     href="https://github.com/AeroBytesNl/Wordpress-posts-to-Discord" target="_blank">
                     <i class="bi bi-github">
                       Github
                     </i>
@@ -305,7 +305,7 @@
             <ul>
               <li><a href="">
                 <div class="social-links">
-                  <a class="text-white" href="https://github.com/AutiCodes/get-my-ip"
+                  <a class="text-white" href="https://github.com/AeroBytesNl/get-my-ip"
                      target="_blank">
                     <i class="bi bi-github">
                       Github
@@ -335,7 +335,7 @@
                   </a>
                 </div>
               </a></li>
-              <li>In active development</li>
+              <li>In passive development</li>
             </ul>
           </div>
         </div>
