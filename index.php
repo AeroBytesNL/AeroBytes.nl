@@ -50,7 +50,6 @@
   <section class="hero section light-background" id="hero">
     <img alt="" src="assets/img/rc_plane_and_digital_edited.jpg">
     <div class="container" data-aos="zoom-out">
-
       <div class="row justify-content-center">
         <div class="col-lg-9">
           <h2 class="text-white">AeroBytes</h2>
