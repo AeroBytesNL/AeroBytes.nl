@@ -492,9 +492,7 @@
             <a class="stretched-link" href="#"></a>
           </div>
         </div>
-
       </div>
-
     </div>
   </section>
 
