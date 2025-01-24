@@ -57,10 +57,15 @@
                                       data-typed-items="My RC planes are in the sky and my code is in the clouds"></span><span
                   aria-hidden="true" class="typed-cursor typed-cursor--blink"></span></p>
           <div class="social-links">
-            <a class="text-white" href="https://github.com/AeroBytesNL" target="_blank"><i
-                    class="bi bi-github"></i></a>
-            <a class="text-white" href="https://www.youtube.com/@AeroBytesNL" target="_blank"><i
-                    class="bi bi-youtube"></i></a>
+            <a class="text-white" href="https://github.com/AeroBytesNL" target="_blank">
+              <i class="bi bi-github"></i>
+            </a>
+            <a class="text-white" href="https://www.youtube.com/@AeroBytesNL" target="_blank">
+              <i class="bi bi-youtube"></i>
+            </a>
+            <a class="text-white" href="https://discord.gg/DEQ2RK8RQB" target="_blank">
+              <i class="bi bi-discord"></i>
+            </a>
           </div>
         </div>
       </div>
