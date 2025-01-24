@@ -339,23 +339,23 @@
             <h2 align="center">Tools</h2>
             <div align="center">
               <div>
-                <img src="assets/img/icons/phpstorm.png" style="width: 50px;" />
-                <p>PHPStorm</p>
+                <img src="assets/img/icons/phpstorm.png" style="width: 45px;" />
+                <p>PhpStorm</p>
               </div>
               <div>
-                <img src="assets/img/icons/pycharm.png" style="width: 50px;" />
+                <img src="assets/img/icons/pycharm.png" style="width: 45px;" />
                 <p>PyCharm</p>
               </div>
               <div>
-                <img src="assets/img/icons/git.png" style="width: 55px;" />
-                <p>Git</p>
-              </div>
-              <div>
-                <img src="assets/img/icons/vscode.png" style="width: 50px;" />
+                <img src="assets/img/icons/vscode.png" style="width: 45px;" />
                 <p>VSCode</p>
               </div>
               <div>
-                <img src="assets/img/icons/github-icon-2.png" style="width: 50px;" />
+                <img src="assets/img/icons/git.png" style="width: 50px;" />
+                <p>Git</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/github-icon-2.png" style="width: 45px;" />
                 <p>GitHub</p>
               </div>
             </div>
@@ -386,6 +386,10 @@
                 <img src="assets/img/icons/tailwindcss.png" style="width: 50px;" />
                 <p>Tailwind CSS</p>
               </div>
+              <div>
+                <img src="assets/img/icons/disnake-logo.png" style="width: 50px;" />
+                <p>Disnake</p>
+              </div>
             </div>
           </p>
         </div>
@@ -395,7 +399,7 @@
             <h2 align="center">Languages</h2>
             <div align="center">
               <div>
-                <img src="assets/img/icons/php.png" style="width: 50px;" />
+                <img src="assets/img/icons/php.png" style="width: 60px;" />
                 <p>PHP</p>
               </div>
               <div>
@@ -423,20 +427,24 @@
             <h2 align="center">Tech</h2>
             <div align="center">
               <div>
-                <img src="assets/img/icons/97_Docker_logo_logos-512.webp" style="width: 45px;" />
+                <img src="assets/img/icons/97_Docker_logo_logos-512.webp" style="width: 55px;" />
                 <p>Docker</p>
               </div>
               <div>
-                <img src="assets/img/icons/Ubuntu_and_Ubuntu_Server_Icon.png" style="width: 50px;" />
+                <img src="assets/img/icons/Ubuntu_and_Ubuntu_Server_Icon.png" style="width: 55px;" />
                 <p>Ubuntu</p>
               </div>
               <div>
-                <img src="assets/img/icons/mariadb-logo-vert_blue-transparent.png" style="width: 50px;" />
+                <img src="assets/img/icons/mariadb-logo-vert_blue-transparent.png" style="width: 55px;" />
                 <p>MariaDB</p>
               </div>
               <div>
-                <img src="assets/img/icons/mysql-logo.svg" style="width: 50px;" />
+                <img src="assets/img/icons/mysql-logo.svg" style="width: 85px;" />
                 <p>MySQL</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/proxmox.png" style="width: 50px;" />
+                <p>Proxmox VE</p>
               </div>
             </div>
           </p>
