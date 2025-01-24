@@ -193,7 +193,7 @@
               <li>Web hosting</li>
               <li>Mailserver hosting</li>
               <li>Web development</li>
-              <li><a href="https://trmc.nl" target="_blank">TRMC.nl</a></li>
+              <li><a href="https://trmc.nl" target="_blank">trmc.nl</a></li>
             </ul>
           </div>
           
