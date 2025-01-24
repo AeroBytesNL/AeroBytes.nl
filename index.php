@@ -395,7 +395,7 @@
             <h2 align="center">Languages</h2>
             <div align="center">
               <div>
-                <img src="assets/img/icons/php.png" style="width: 50px;" />
+                <img src="assets/img/icons/php.png" style="width: 60px;" />
                 <p>PHP</p>
               </div>
               <div>
@@ -423,7 +423,7 @@
             <h2 align="center">Tech</h2>
             <div align="center">
               <div>
-                <img src="assets/img/icons/97_Docker_logo_logos-512.webp" style="width: 45px;" />
+                <img src="assets/img/icons/97_Docker_logo_logos-512.webp" style="width: 50px;" />
                 <p>Docker</p>
               </div>
               <div>
@@ -435,7 +435,7 @@
                 <p>MariaDB</p>
               </div>
               <div>
-                <img src="assets/img/icons/mysql-logo.svg" style="width: 50px;" />
+                <img src="assets/img/icons/mysql-logo.svg" style="width: 80px;" />
                 <p>MySQL</p>
               </div>
             </div>
