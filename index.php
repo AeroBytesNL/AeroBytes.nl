@@ -340,19 +340,19 @@
             <div align="center">
               <div>
                 <img src="assets/img/icons/phpstorm.png" style="width: 50px;" />
-                <p>PHPStorm</p>
+                <p>PhpStorm</p>
               </div>
               <div>
                 <img src="assets/img/icons/pycharm.png" style="width: 50px;" />
                 <p>PyCharm</p>
               </div>
               <div>
-                <img src="assets/img/icons/git.png" style="width: 55px;" />
-                <p>Git</p>
-              </div>
-              <div>
                 <img src="assets/img/icons/vscode.png" style="width: 50px;" />
                 <p>VSCode</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/git.png" style="width: 55px;" />
+                <p>Git</p>
               </div>
               <div>
                 <img src="assets/img/icons/github-icon-2.png" style="width: 50px;" />
@@ -437,6 +437,10 @@
               <div>
                 <img src="assets/img/icons/mysql-logo.svg" style="width: 80px;" />
                 <p>MySQL</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/proxmox.png" style="width: 50px;" />
+                <p>Proxmox VE</p>
               </div>
             </div>
           </p>
