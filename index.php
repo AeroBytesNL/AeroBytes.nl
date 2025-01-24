@@ -386,6 +386,10 @@
                 <img src="assets/img/icons/tailwindcss.png" style="width: 50px;" />
                 <p>Tailwind CSS</p>
               </div>
+              <div>
+                <img src="assets/img/icons/disnake-logo.png" style="width: 50px;" />
+                <p>Disnake</p>
+              </div>
             </div>
           </p>
         </div>
