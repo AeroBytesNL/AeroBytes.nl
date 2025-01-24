@@ -355,64 +355,120 @@
     <div class="container section-title" data-aos="fade-up">
       <h2>Tools, frameworks and coding languages</h2>
       <p>
-        I do a lot of things. These i'm using the most.
+        I do a lot of things. These are the ones I use the most.
       </p>
     </div>
 
     <div class="container">
       <div class="row gy-4 justify-content-center">
-        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        
+        <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <p align="center">
             <h2 align="center">Tools</h2>
             <div align="center">
-              <img src="assets/img/icons/phpstorm.png" style="width: 50px;" />
-              <img src="assets/img/icons/pycharm.png" style="width: 50px;" />
-              <img src="assets/img/icons/git.png" style="width: 55px;" />
-              <img src="assets/img/icons/vscode.png" style="width: 50px;" />
-              <img src="assets/img/icons/github-icon-2.png" style="width: 50px;" />
+              <div>
+                <img src="assets/img/icons/phpstorm.png" style="width: 50px;" />
+                <p>PHPStorm</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/pycharm.png" style="width: 50px;" />
+                <p>PyCharm</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/git.png" style="width: 55px;" />
+                <p>Git</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/vscode.png" style="width: 50px;" />
+                <p>VSCode</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/github-icon-2.png" style="width: 50px;" />
+                <p>GitHub</p>
+              </div>
             </div>
           </p>
         </div>
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <p align="center">
-          <h2 align="center">Frameworks</h2>
-          <div align="center">
-            <img src="assets/img/icons/laravel.png" style="width: 45px;" />
-            <img src="assets/img/icons/livewire.png" style="width: 50px;" />
-            <img src="assets/img/icons/alpinejs.png" style="width: 50px;" />
-            <img src="assets/img/icons/bootstrap.png" style="width: 50px;" />
-            <img src="assets/img/icons/tailwindcss.png" style="width: 50px;" />
-          </div>
+            <h2 align="center">Frameworks</h2>
+            <div align="center">
+              <div>
+                <img src="assets/img/icons/laravel.png" style="width: 45px;" />
+                <p>Laravel</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/livewire.png" style="width: 50px;" />
+                <p>Livewire</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/alpinejs.png" style="width: 50px;" />
+                <p>AlpineJS</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/bootstrap.png" style="width: 50px;" />
+                <p>Bootstrap</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/tailwindcss.png" style="width: 50px;" />
+                <p>Tailwind CSS</p>
+              </div>
+            </div>
           </p>
         </div>
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <p align="center">
-          <h2 align="center">Languages</h2>
-          <div align="center">
-            <img src="assets/img/icons/php.png" style="width: 50px;" />
-            <img src="assets/img/icons/python.png" style="width: 50px;" />
-            <img src="assets/img/icons/js.png" style="width: 50px;" />
-            <img src="assets/img/icons/html5.png" style="width: 50px;" />
-            <img src="assets/img/icons/css3.png" style="width: 50px;" />
-          </div>
+            <h2 align="center">Languages</h2>
+            <div align="center">
+              <div>
+                <img src="assets/img/icons/php.png" style="width: 50px;" />
+                <p>PHP</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/python.png" style="width: 50px;" />
+                <p>Python</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/js.png" style="width: 50px;" />
+                <p>JavaScript</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/html5.png" style="width: 50px;" />
+                <p>HTML5</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/css3.png" style="width: 50px;" />
+                <p>CSS3</p>
+              </div>
+            </div>
           </p>
         </div>
-        
-        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <p align="center">
-          <h2 align="center">Tech</h2>
-          <div align="center">
-            <img src="assets/img/icons/97_Docker_logo_logos-512.webp" style="width: 45px;" />
-            <img src="assets/img/icons/Ubuntu_and_Ubuntu_Server_Icon.png" style="width: 50px;" />
-            <img src="assets/img/icons/mariadb-logo-vert_blue-transparent.png" style="width: 50px;" />
-            <img src="assets/img/icons/mysql-logo.svg" style="width: 50px;" />
-            <img src="assets/img/icons/" style="width: 50px;" />
-          </div>
+            <h2 align="center">Tech</h2>
+            <div align="center">
+              <div>
+                <img src="assets/img/icons/97_Docker_logo_logos-512.webp" style="width: 45px;" />
+                <p>Docker</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/Ubuntu_and_Ubuntu_Server_Icon.png" style="width: 50px;" />
+                <p>Ubuntu</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/mariadb-logo-vert_blue-transparent.png" style="width: 50px;" />
+                <p>MariaDB</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/mysql-logo.svg" style="width: 50px;" />
+                <p>MySQL</p>
+              </div>
+            </div>
           </p>
         </div>
-        
       </div>
     </div>
   </section>
