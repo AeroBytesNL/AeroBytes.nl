@@ -358,6 +358,10 @@
                 <img src="assets/img/icons/github-icon-2.png" style="width: 45px;" />
                 <p>GitHub</p>
               </div>
+              <div>
+                <img src="assets/img/icons/composer-logo.png" style="width: 45px;" />
+                <p>Composer</p>
+              </div>
             </div>
           </p>
         </div>
