@@ -196,7 +196,16 @@
               <li><a href="https://trmc.nl" target="_blank">TRMC.nl</a></li>
             </ul>
           </div>
-
+          
+          <div class="resume-item pb-0">
+            <h4>dyllo-entertainment.nl</h4>
+            <ul>
+              <li>Web hosting</li>
+              <li>Mailserver hosting</li>
+              <li><a href="https://dyllo-entertainment.nl" target="_blank">dyllo-entertainment.nl</a></li>
+            </ul>
+          </div>
+          
           <div class="resume-item pb-0">
             <h4>AllDayTechAndGaming.nl</h4>
             <ul>
