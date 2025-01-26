@@ -108,8 +108,8 @@
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>
                     <?php
-										$diff = date_diff(date_create("11-05-2001"), date_create(date("d-m-Y")));
-										echo $diff->format("I'm %y years, %m months and %d days old");
+                      $diff = date_diff(date_create("11-05-2001"), date_create(date("d-m-Y")));
+                      echo $diff->format("I'm %y years, %m months and %d days old");
 										?>
                   </span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>work@aerobytes.nl</span>
@@ -338,7 +338,6 @@
 
     <div class="container">
       <div class="row gy-4 justify-content-center">
-        
         <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <p align="center">
             <h2 align="center">Tools</h2>
@@ -350,6 +349,10 @@
               <div>
                 <img src="assets/img/icons/pycharm.png" style="width: 45px;" />
                 <p>PyCharm</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/WebStorm.png" style="width: 45px;" />
+                <p>WebStorm</p>
               </div>
               <div>
                 <img src="assets/img/icons/vscode.png" style="width: 45px;" />
@@ -418,6 +421,10 @@
               <div>
                 <img src="assets/img/icons/js.png" style="width: 50px;" />
                 <p>JavaScript</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/TS_logo.png" style="width: 50px;" />
+                <p>TypeScript</p>
               </div>
               <div>
                 <img src="assets/img/icons/html5.png" style="width: 50px;" />
