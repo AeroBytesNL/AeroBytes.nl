@@ -55,7 +55,7 @@
           <h2 class="text-white">AeroBytes</h2>
           <p class="text-white">
             <span class="typed"
-              data-typed-items="Just like flight, great development is about balance—efficiency, performance, and control.">
+              data-typed-items="Just like flight, great development and hosting is about balance, efficiency, performance and control.">
             </span>
             <span
               aria-hidden="true" class="typed-cursor typed-cursor--blink">
