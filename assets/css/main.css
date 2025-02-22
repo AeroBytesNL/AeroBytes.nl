@@ -240,7 +240,7 @@ h6 {
   margin-bottom: 8px;
   font-size: 15px;
   border-radius: 50px;
-  background: color-mix(in srgb, var(--default-color), transparent 92%);
+  background: rgba(0, 0, 0, 0.69);;
   height: 56px;
   width: 100%;
   overflow: hidden;
