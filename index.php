@@ -86,12 +86,12 @@
         </div>
         <div class="col-lg-8 content">
           <h2>
-            Developer, IT fanatic and RC pilot
+            Web developer, IT fanatic and RC pilot.
           </h2>
           <p class="fst-italic py-3">
-            I'm a tech enthusiast with an love for programming, web hosting, hardware, software, electronics
-            and building awesome but functional projects!<br>
-            In my spare time i love to go to the gym and fly with RC planes and drones by an local RC club.
+            I'm a tech enthusiast with a passion for programming, web hosting, hardware, software, and electronics.<br>
+            I love building innovative and functional projects.<br>
+            In my spare time, I enjoy hitting the gym and flying RC planes and drones with my local RC club.
           </p>
           <div class="row">
             <div class="col-lg-6">
