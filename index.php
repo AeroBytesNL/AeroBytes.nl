@@ -53,9 +53,14 @@
       <div class="row justify-content-center">
         <div class="col-lg-9">
           <h2 class="text-white">AeroBytes</h2>
-          <p class="text-white"><span class="typed"
-                                      data-typed-items="My RC planes are in the sky and my code is in the clouds"></span><span
-                  aria-hidden="true" class="typed-cursor typed-cursor--blink"></span></p>
+          <p class="text-white">
+            <span class="typed"
+              data-typed-items="Just like flight, great development is about balance—efficiency, performance, and control.">
+            </span>
+            <span
+              aria-hidden="true" class="typed-cursor typed-cursor--blink">
+          </span>
+          </p>
           <div class="social-links">
             <a class="text-white" href="https://github.com/AeroBytesNL" target="_blank">
               <i class="bi bi-github"></i>
