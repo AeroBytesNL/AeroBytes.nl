@@ -48,7 +48,7 @@
 
 <main class="main">
   <section class="hero section light-background" id="hero">
-    <img alt="" src="assets/img/rc_plane_and_digital_edited.jpg">
+    <img alt="" class="main-background-custom" src="assets/img/plane-image-background.webp">
     <div class="container" data-aos="zoom-out">
       <div class="row justify-content-center">
         <div class="col-lg-9">

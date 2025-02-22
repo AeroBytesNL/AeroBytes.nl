@@ -39,6 +39,10 @@
   --contrast-color: #ffffff;
 }
 
+.main-background-custom {
+  filter: brightness(69%);
+}
+
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
