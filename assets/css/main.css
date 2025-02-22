@@ -40,7 +40,7 @@
 }
 
 .main-background-custom {
-  filter: brightness(69%);
+  filter: brightness(69%) !important;
 }
 
 /* Smooth scroll */
@@ -240,7 +240,7 @@ h6 {
   margin-bottom: 8px;
   font-size: 15px;
   border-radius: 50px;
-  background: rgba(0, 0, 0, 0.69);;
+  background: rgba(0, 0, 0, 0.69);
   height: 56px;
   width: 100%;
   overflow: hidden;
