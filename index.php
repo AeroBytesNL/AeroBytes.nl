@@ -139,7 +139,7 @@
           <div class="resume-item">
             <h4>Software developer</h4>
             <h5>11-2024 - 12-2024</h5>
-            <p><em>hanninkhof.de</em></p>
+            <p><em>Hanninkhof.de</em></p>
             <ul>
               <li>
                 Software development
