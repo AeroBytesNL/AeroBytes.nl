@@ -371,10 +371,6 @@
                 <img src="assets/img/icons/github-icon-2.png" style="width: 45px;" />
                 <p>GitHub</p>
               </div>
-              <div>
-                <img src="assets/img/icons/composer-logo.png" style="width: 45px;" />
-                <p>Composer</p>
-              </div>
             </div>
           </p>
         </div>
@@ -452,8 +448,8 @@
                 <p>Docker</p>
               </div>
               <div>
-                <img src="assets/img/icons/Ubuntu_and_Ubuntu_Server_Icon.png" style="width: 55px;" />
-                <p>Ubuntu</p>
+                <img src="assets/img/icons/Tux.svg.png" style="width: 55px;" />
+                <p>Linux</p>
               </div>
               <div>
                 <img src="assets/img/icons/mariadb-logo-vert_blue-transparent.png" style="width: 55px;" />
@@ -466,6 +462,10 @@
               <div>
                 <img src="assets/img/icons/proxmox.png" style="width: 50px;" />
                 <p>Proxmox VE</p>
+              </div>
+              <div>
+                <img src="assets/img/icons/coolify-logo.png" style="width: 65px;" />
+                <p>Coolify</p>
               </div>
             </div>
           </p>
