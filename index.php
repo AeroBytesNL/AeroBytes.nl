@@ -467,6 +467,10 @@
                 <img src="assets/img/icons/proxmox.png" style="width: 50px;" />
                 <p>Proxmox VE</p>
               </div>
+              <div>
+                <img src="assets/img/icons/coolify-logo.png" style="width: 65px;" />
+                <p>Coolify</p>
+              </div>
             </div>
           </p>
         </div>
