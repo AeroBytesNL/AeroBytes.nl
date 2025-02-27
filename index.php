@@ -448,8 +448,8 @@
                 <p>Docker</p>
               </div>
               <div>
-                <img src="assets/img/icons/Ubuntu_and_Ubuntu_Server_Icon.png" style="width: 55px;" />
-                <p>Ubuntu</p>
+                <img src="assets/img/icons/Tux.svg.png" style="width: 55px;" />
+                <p>Linux</p>
               </div>
               <div>
                 <img src="assets/img/icons/mariadb-logo-vert_blue-transparent.png" style="width: 55px;" />
